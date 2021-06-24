@@ -1,0 +1,23 @@
+Formas de operar un centro de computo
+
+1 Operar el sistema de computación central y mantener el sistema disponible para los usuarios.
+
+Esto se ve mucho en los call center todas la maquinas tiene que tener la conexión necesaria para que los usuarios puedan trabajara de manera correcta tanto de os ejecutivos en piso, como de los supervisores y directores.
+
+
+2 Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la Dirección, conforme a parámetros preestablecidos.
+
+En las oficinas contables es muy importante tener una base de datos segura en caso que haya alguna falla poder tener el respaldo me manera rápida, este se realizará según lo mas conveniente y quedará programado periódicamente	.
+
+3 Realizar labores de mantenimiento y limpieza de los equipos del centro de cómputo.
+
+Aunque parece una tarea trivial en mi trabajo tenemos 5 servidores y aproximadamente cada 4 meses los abrimos y le damos una sopleteada con aire para retirar e polvo.
+
+4 Mantener informado al jefe inmediato sobre el funcionamiento del centro de cómputo.
+
+En casi cualquier area se debe de presentar un informe diario, semanal, mensual o anual sobre los acontecimientos del centro del computo, ya sea por correo, por mensaje o llamada, igual al final de los turno muchas veces se llena una bitácora o se realiza una to-do list de las actividades cotidianas para llevar un registro claro de que se realizó y como se realizó, y se le envía al jefe del area.
+
+5 Revisar los resultados de los procesos e incorporar acciones correctivas conforme a instrucciones de su superior inmediato.
+
+En las empresas por ejemplo hay paginas que no quieren que sean visitadas durante por lo trabajadores  
+Por eso monitorean en trafico de la red y bloquean paginas que se piensen que no son apropiadas para le personal.
